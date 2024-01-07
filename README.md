@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<!--
 <p align="right">
   <img alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=hboueix.hboueix" />
 </p>
@@ -12,7 +13,6 @@
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hboueix&langs_count=10&layout=compact" />
 </p>
 
-<!--
 <p align="center">
   <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=hboueix&repo=pybot&show_owner=true" />
 </p>
